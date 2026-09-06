@@ -1,13 +1,7 @@
-# README — 0.40929 packet (NO target encoding)
-
-This folder is the **no-TE** finalist packet. Public binary log loss **0.40929**.
-
-It is a **separate alternative** to `final-submission/` (the 0.40900 TE blend). Do not mix files from the two folders.
+# README — 0.40929 
 
 **Leaderboard file:** `submission_lgbm_pay_types_0.40929.csv`  
 **SHA-256:** `ee20a41ff96c6452be8761c0a41cebe240e1d67d5d1d9deacd7e8b06baaa99c1`
-
-That CSV is the **exact** 0.40929 upload, copied without modification.
 
 ## What to send
 
